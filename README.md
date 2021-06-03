@@ -5,7 +5,8 @@
 # DATASET
 
 #### Structure
-<div style = "text-align: justify">The dataset is organized into three folders - train, val and test, each having two subfolders (for corresponding class) <b>NORMAL</b> and <b>PNEUMONIA</b>.</div>
+<div style = "text-align: justify">The dataset is organized into three folders - train, val and test, each having two subfolders (for corresponding class) <b>NORMAL and PNEUMONIA</b>.</div>
+
 #### Source
 <div style = "text-align: justify">The chest X-ray images were taken from pedriatic patients from Guangzhou Women and Children’s Medical Center, China. All chest radiographs were initially scanned for quality control by removing the low quality or unreadable scans.</div>
 
